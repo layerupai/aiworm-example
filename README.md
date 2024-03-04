@@ -32,6 +32,8 @@ python email_client_simulation.py
 ### Research and References
 This simulation is based on findings from "ComPromptMized: Unleashing Zero-click Worms that Target GenAI-Powered Applications" by Stav Cohen, Ron Bitton, and Ben Nassi. Read the full paper [here](https://sites.google.com/view/compromptmized/home). 
 
+You can also learn more on the blog post [here](https://uselayerup.com/blog/genai-worms-the-next-generation-malware-targeting-llm-applications). 
+
 ## Disclaimer
 This code is intended for educational and research purposes only. The authors do not encourage malicious use of the techniques demonstrated within this simulation.
 
